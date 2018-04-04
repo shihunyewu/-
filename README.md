@@ -12,5 +12,5 @@ python main.py 80
 ```
 
 ###  后记
-* 公众号：sgyRubots_
+* 公众号：sgyRubots
 有兴趣的同学可以关注下，聊聊天

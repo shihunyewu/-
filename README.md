@@ -1,12 +1,12 @@
 ## 微信公众号
 ###  实现功能：
 * 聊天机器人  
-	[聊天机器人接口](http://api.qingyunke.com/)
+	[聊天机器人接口链接](http://api.qingyunke.com/)
 
 ### 参照
-[参照](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1472017492_58YV5)
+[参照资料链接](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1472017492_58YV5)
 
-### 配置
+### 运行
 ```python
 python main.py 80
 ```
